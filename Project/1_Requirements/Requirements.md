@@ -1,6 +1,8 @@
-* # Requirement for this device
+* # Requirement for this device :
    * Good water supply  
-* # Hardware Requirements
+* # Hardware Requirements :
+   * AVR MICROCONTROLLER
+     * it contain on chip central processing unit (CPU), Read only memory (ROM), Random access memory (RAM), input/output unit, interrupts controller etc. Therefore a microcontroller is used for high speed signal processing operation inside an embedded system.
    * TRANSISTOR
      * A transistor is a semiconductor device used to amplify or switch electrical signals and power. The transistor is one of the basic building blocks of modern electronics. It is composed of semiconductor material, usually with at least three terminals for connection to an electronic circuit.
    
