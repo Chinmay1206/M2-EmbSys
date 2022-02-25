@@ -43,3 +43,28 @@ Distance = Speed × Time
    * The Ultrasonic transmitter transmits an ultrasonic wave, this wave travels in air and when it gets objected by any material it gets reflected back toward the sensor this reflected wave is observed by the Ultrasonic receiver module 
 
 *_etc_*...
+
+* # HIGH LEVEL REQUIREMENTS
+#
+| ID   | DESCRIPTION                                           |
+|------|-------------------------------------------------------|
+|HL1   | Sensor to detect the water level in the tank          |
+|HL2   | sensor to send high medium low level info to arduino  |
+|HL3   | buzzer to alert the macchine to sart n stop           |
+
+* # LOW LEVEL REQUIREMENT
+#
+| ID  |  DESCRIPTION                                          |
+|-----|-------------------------------------------------------|
+|LL1  | Machine to work according to instructions             |
+|LL2  | LED to show the message on display                    | 
+|LL3  | Easy to use and save water & electricity              |
+
+
+
+
+
+
+
+
+
