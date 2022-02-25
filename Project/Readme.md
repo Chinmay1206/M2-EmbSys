@@ -42,9 +42,7 @@
         * Identifying features,Goals of this project, APPLICATIONS AND BENIFITS
 * 2_Architecture
  
-  i. Block Daigram
-  
-  ii. System Flow Chart
+        * Block Daigram, System Flow Chart
 * 3_Implementation
 
    It will contain the .c & .h files 
