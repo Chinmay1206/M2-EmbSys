@@ -9,7 +9,7 @@
 - **_To reduce the wastage of water across the city_**
 - **_To provide better water supply to the people_**
 
-  ```js
+```js
   ____                   __        __    _
  / ___|  __ ___   _____  \ \      / /_ _| |_ ___ _ __
  \___ \ / _` \ \ / / _ \  \ \ /\ / / _` | __/ _ \ '__|
