@@ -22,3 +22,36 @@
  |____/ \__,_| \_/ \___| |_____|_|_|  \___|
 
 ```
+# Table Of Content
+* 1_Requirements
+
+     i. 4W_1H
+     
+        * why who when what & how
+     
+     ii. Requirements
+     
+         * Requirement of device & Hardware requirement
+    
+    iii. SWOT
+    
+        * strenth weakness opportunities threat
+        
+     iv. Features
+     
+        * Identifying features,Goals of this project, APPLICATIONS AND BENIFITS
+* 2_Architecture
+ 
+  i. Block Daigram
+  
+  ii. System Flow Chart
+* 3_Implementation
+
+   It will contain the .c & .h files 
+* 4_Test Plan
+
+  * It will contain Input & output Images
+* 5_Report
+
+  * report for whole project 
+* 6_Refrences
