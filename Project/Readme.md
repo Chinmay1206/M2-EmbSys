@@ -31,7 +31,7 @@
      
      ii. Requirements
      
-         * Requirement of device & Hardware requirement
+         * Requirement of device & Hardware requirement, HLR & LLR
     
     iii. SWOT
     
