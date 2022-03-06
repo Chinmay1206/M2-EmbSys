@@ -53,3 +53,14 @@
 
   * report for whole project 
 * 6_Refrences
+
+# Water Level Controller Circuit Advantages
+
+  * Human effort is reduced as the system controls the motor automatically based on the water level.
+  * This system consumes less power.
+  * Simple and more reliable
+
+# Applications of Water Level Controller Circuit using 8051
+
+  * Used in big buildings where the manual monitoring is difficult.
+  * Used in industries to control the liquid level automatically.
