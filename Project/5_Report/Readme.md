@@ -9,6 +9,12 @@ Water Monitoring System is an IoT based Liquid Level Monitoring system that has 
 
 The status of the system could be monitored by a LCD screen or a web page that provides a brilliant graphical representation. Colours are used to depict various scenarios with respect to the amount of liquid in the tanks or containers and the buzzer buzzes when the limit exceeds the permissible quantity of fill.
 
+# Identifying features:
+
+  * Living in an era where we need to save more electricity, a water level controller is ideal at saving power.
+  * A water level controller helps save money by limiting the waste of water and electricity.
+  * Another notable advantage with these devices is that they regulate on their own.
+
  # JUSTIFICATION:
  
  Automatic water level monitor came into existence because of human error and inconsistence that is associated with manually operated waterpumping machine. This is because it takes time for individual who is manually operating the water pump to turn off the pumping machine and this may cause water spillage and at times the individual might not know that the water level has drop so low until the tank is completely empty.This was the problem that leads to the development of the ideal of anautomatic water level control and automatic pump short down.
@@ -121,6 +127,40 @@ Distance = Speed × Time
    
 # System Block Diagram:
 
+# 4W'S & 1H
+ * # WHY
+     * A water level controller helps save money by limiting the waste of water and electricity
+ * # WHO
+   * Everyone can use this device as for their commercial aur domestic use 
+ * # WHEN
+   * Whenerver the tank level gets low high it starts and stops according to the requirements
+ * # WHAT
+   * Result's into less manual work which saves human time and energy.
+ * # HOW
+   *  By setting these devices as per the requiement so as to save the loss of water and and save the motor from dry run and manual work load.
+# SWOT Analysis:
+  
+  * STENGTH:
+    * Regulates water flow &  optimizes machine performance.
+    * Rduces man power which gives human a relief. 
+    
+  * WEAKNESS:
+    * Due to lack of short circuit protection it can lead to burning.
+    * Needs to be changed After 6-7 years gap.
+    
+  * OPPORTUNITIES:
+    * Ease at mannual work & money as well as power saver.
+    * In future we can get a best market value for this product.
+
+  * THREATS:
+  
+# Test Plan & Output:
+
+* The water level is full – Nothing happens
+* Water level drops to the reference probe – Alarm is triggered
+* Fill start is triggered automatically turning on the water to fill the tank
+* Once the water is full, fill stop is triggered and the system automatically stops the pump
+* The system resets and waits for water levels to drop again
 
 # Goals of this project :
   * _To reduce the wastage of water across the city_
