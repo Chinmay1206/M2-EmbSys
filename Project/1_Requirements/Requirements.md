@@ -16,6 +16,22 @@
       * A resistor is a passive two-terminal electrical component that implements electrical resistance as a circuit element. Resistors act to reduce current flow, and, at the         same time, act to lower voltage levels within circuits. Resistors may have fixed resistances or variable resistances, such as those found in thermistors, trimers, photo           resistors and potentiometers. The current through a resistor is in direct proportion to the voltage across the resistor's terminals. This relationship is represented by Ohm's     law in I is the current through the conductor in units of amperes, V is the potential difference measured across the conductor in units of volts, and R is the resistance of       the conductor in units of ohms (symbol: Ω). 
       * Fixed value resistor:
         Fixed value resistors are those types of resistors whose value is fixed already while manufacturing and cannot be changed during its usage
+        
+       * HOW TO READ RESISTORS VALUES
+        #  
+       | Brown | Red  | Orange | Yellow | Green |  Blue | Violet | Gray | White |
+       |-------|------|--------|--------|-------|-------|--------|------|-------|
+       |   1   |  2   |   3    | 4      |  5    |   6   |  7     |  8   |   9   |
+       
+       Must resistor have four bands1.
+ 
+        * The first band gives the first digit2. 
+ 
+        * The second band gives the second digit3. 
+ 
+        * The third indicate the4. 
+ 
+        * The fourth band is use to show the tolerance of the resistor. 
 
    * RELAY
       * Relays are most commonly used switching device in electronics. There are two important parameters of relay, first is the Trigger Voltage, this is the voltage required to       turn on the relay that is to change the contact from Common → NC to Common → NO. The other parameter is your Load Voltage & Current, this is the amount of voltage or current       that the NC, NO or Common terminal of the relay could withstand, in our case for DC it is maximum of 30V and 10A. Make sure the load you are using falls into this range 
