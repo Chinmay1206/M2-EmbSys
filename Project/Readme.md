@@ -64,3 +64,4 @@
 
   * Used in big buildings where the manual monitoring is difficult.
   * Used in industries to control the liquid level automatically.
+  * Automatically turn ON/OFF pumps.
