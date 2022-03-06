@@ -115,6 +115,12 @@ Distance = Speed × Time
 |LL2  | LED to show the message on display                    | 
 |LL3  | Easy to use and save water & electricity              |
 
+# System Flow Chart:
+
+   ![System flow chart](https://user-images.githubusercontent.com/98880912/156942110-8f4ee244-3416-49c7-93b9-bb268ebe4a68.png)
+   
+# System Block Diagram:
+
 
 # Goals of this project :
   * _To reduce the wastage of water across the city_
