@@ -32,6 +32,23 @@ The status of the system could be monitored by a LCD screen or a web page that p
   * Avoids wastage of water from tanks.  It can maintain exact preset water levels. 
   * The  system  is  very  versatile,  a  numbers  of  tailor  made  variations  like  control  of multiple tanks or multiple pumps are possible. 
   * Being automatic saves man power.
+  
+# Benefits of Water Level Indicators & Water Alarms:
+
+There are many benefits of water level indicators and water alarms including:
+
+  * Easy installation
+  * Minimal maintenance
+  * Sends an alert to let you know water is too high or too low
+  * Low & High alarms
+  * Compact design
+  * Automatically adjusts water levels
+  * Save money by using less electricity and water
+  * Can help avoid seepage of roofs and walls due to tanks overflowing
+  * Automatic operation saves you manual labor time
+  * Consumes a small amount little energy, perfect for on-going operations
+  * Indicates water levels in any type of storage tank or body of liquid
+  * A water alarm is loud so you can easily hear it
 
 # Applications:
   
