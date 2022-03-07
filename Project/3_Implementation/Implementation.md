@@ -1,4 +1,4 @@
-* this folder contains the .c & .h files of project
+* this folder contains the .ino & .hex files of project
 
 # Steps to run the code
  * For Building the code
