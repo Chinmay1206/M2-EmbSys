@@ -142,7 +142,10 @@ Distance = Speed × Time
 
    ![System flow chart](https://user-images.githubusercontent.com/98880912/156942110-8f4ee244-3416-49c7-93b9-bb268ebe4a68.png)
    
-# System Block Diagram:
+# Simple Block Diagram:
+
+   ![c1eb0225df064ca8081af58f3b5587dd604d515f](https://user-images.githubusercontent.com/98880912/157013365-ab013fda-52c4-451b-8ad7-aa105ca0a813.jpg)
+
 
 # 4W'S & 1H
  * # WHY
