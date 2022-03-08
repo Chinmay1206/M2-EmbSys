@@ -3,6 +3,21 @@
    Water Monitoring System is an IoT based Liquid Level Monitoring system that has the mechanism to keep the user alerted in case of liquid overflow or when tank depletes. The water tanks can be fixed with ultrasonic sensors that is placed over the container. Ultrasonic sensor is used to measure, compare container depth and liquid level.
 
    The status of the system could be monitored by a LCD screen or a web page that provides a brilliant graphical representation. Colours are used to depict various scenarios with respect to the amount of liquid in the tanks or containers and the buzzer buzzes when the limit exceeds the permissible quantity of fill.
+   
+   # Table Of Content:
+   
+   # TABLE OF CONTENTS
+
+|Folder|Description|
+|------|------------- |
+| 1_Requirements        | Requirments of system        |
+| 2_Architecture        | Structural and block diagram |
+| 3_Implementation      | code files                   | 
+| 4_Testplan and output | details of testplan & Output |
+| 5_Report              | documented report            |
+| 6_Images              | Project Work Images          |
+| 7_Applications        | Application of Project       |
+| 8_Refrences           | Refrences                    |
 
 ### Goals of this project :
 
