@@ -1,5 +1,20 @@
 # M2-EmbSys
 
+| Folder Name | Sub-folders | Contents|
+|---|---|---|
+| CaseStudy | complex case study |case study a compex embedded system|
+||simple case study|complex case study |case study a simple embedded system|
+| Project | Readme.md |
+||  1_Requirements | requirnments for the AWLC Automatic water level controller  |
+||  2_Architecture | architecture for the AWLC Automatic water level controller  |
+||  3_Implementation |implementation for AWLC Automatic water level controller  |
+||  4_TestPlanAndOutput | test plan and output of AWLC Automatic water level controller  |
+||  5_Report |report of AWLC Automatic water level controller  |
+||  6_Images and video| Image and vido of the AWLC Automatic water level controller |
+||  7_Applications | applications of AWLC Automatic water level controller |
+||  8_References | Referances taken|
+
+
 # Code Analysis
 
 | Build | CppCheck | Valgrind | Codacy | Unit Testing | 
