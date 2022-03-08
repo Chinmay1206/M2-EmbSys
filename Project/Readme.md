@@ -12,9 +12,9 @@
 |------|------------- |
 | 1_Requirements        | Requirments of system        |
 | 2_Architecture        | Structural and block diagram |
-| 3_Implementation      | code files                   | 
-| 4_Testplan and output | details of testplan & Output |
-| 5_Report              | documented report            |
+| 3_Implementation      | Code files                   | 
+| 4_Testplan and output | Details of testplan & Output |
+| 5_Report              | Documented report            |
 | 6_Images & Video      | Project Work Images & Working video|
 | 7_Applications        | Application of Project       |
 | 8_Refrences           | Refrences                    |
