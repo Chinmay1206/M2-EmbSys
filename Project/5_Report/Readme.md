@@ -15,6 +15,12 @@ The status of the system could be monitored by a LCD screen or a web page that p
   * A water level controller helps save money by limiting the waste of water and electricity.
   * Another notable advantage with these devices is that they regulate on their own.
 
+# Principle:
+   * This system mainly works on a principle that “water conducts electricity”.
+   * Four wires which are dipped into the tank where three will indicate the different water levels and one for Vcc. Based on the outputs of these wires, microcontroller              displays water level on LCD.
+   * Initially when the tank is empty, LCD will display the message EMPTY. When some water added in tank then LCD display LOW and when water level reaches to half level, now LCD      displays HALF.
+   * When the tank is full, LCD displays FULL.
+
  # JUSTIFICATION:
  
  Automatic water level monitor came into existence because of human error and inconsistence that is associated with manually operated waterpumping machine. This is because it takes time for individual who is manually operating the water pump to turn off the pumping machine and this may cause water spillage and at times the individual might not know that the water level has drop so low until the tank is completely empty.This was the problem that leads to the development of the ideal of anautomatic water level control and automatic pump short down.
