@@ -15,7 +15,7 @@
 | 3_Implementation      | code files                   | 
 | 4_Testplan and output | details of testplan & Output |
 | 5_Report              | documented report            |
-| 6_Images              | Project Work Images          |
+| 6_Images & Video      | Project Work Images & Working video|
 | 7_Applications        | Application of Project       |
 | 8_Refrences           | Refrences                    |
 
