@@ -31,9 +31,7 @@
 
 
 
-| Code Quality | Code Grade |
-|--|--|
-|![Code Quality Score](https://api.codiga.io/project/31710/score/svg) | ![Code Grade](https://api.codiga.io/project/31710/status/svg)
+
 
 
 
