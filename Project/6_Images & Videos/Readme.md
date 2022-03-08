@@ -1,2 +1,2 @@
-Contains Circuit Daigrams of the Automatic Water Level Controller.
+Contains Images and videos of the Automatic Water Level Controller ckt with working .
 
