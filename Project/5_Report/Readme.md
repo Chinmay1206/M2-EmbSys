@@ -201,9 +201,20 @@ Distance = Speed × Time
 
 # Output Images:
 
+When Ckt is off:
+
 ![when ckt is off](https://user-images.githubusercontent.com/98880912/157258589-d010fba3-abf5-4c62-8ffc-790035807aa7.png)
+
+When tank is empty:
+
 ![When Tank is Empty](https://user-images.githubusercontent.com/98880912/157258635-7192558d-baeb-4710-8a27-6187039a1723.png)
+
+When tank is half filled:
+
 ![When Tank is half filled](https://user-images.githubusercontent.com/98880912/157258661-3c1d5d6f-f817-46cb-ba94-2615be60ff0d.png)
+
+When tank is full:
+
 ![When Tank if Full](https://user-images.githubusercontent.com/98880912/157258689-a884a969-7017-49d8-b82d-8a8a21165e16.png)
 
 # Goals of this project :
