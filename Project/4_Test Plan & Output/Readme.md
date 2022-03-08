@@ -15,3 +15,18 @@
 | Case 4 | If the overhead tank is Filled &                   | Since there is no requirement of water in the overhead tank the MOTOR is off.                        |
 |        | underground tank is empty then the MOTOR is off    |                                                                                                      |
 
+Wen Ckt is Off:
+
+![when ckt is off](https://user-images.githubusercontent.com/98880912/157264977-851aa488-f9ba-48b1-8f36-35382974d93a.png)
+
+When Tank Is Empty:
+
+![When Tank is Empty](https://user-images.githubusercontent.com/98880912/157265057-cf39ff86-8cb1-4124-9068-9d6b69fc5372.png)
+
+When Tank Is Half Filled:
+
+![When Tank is half filled](https://user-images.githubusercontent.com/98880912/157265106-c62025bd-f875-4839-b6c4-5a74cbf63651.png)
+
+When Tank Is Full:
+
+![When Tank if Full](https://user-images.githubusercontent.com/98880912/157265157-096a4b03-0769-45fa-8b7f-4c61bd90d041.png)
